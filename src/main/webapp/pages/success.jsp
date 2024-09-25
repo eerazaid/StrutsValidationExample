@@ -3,7 +3,7 @@
 </head>
 <body>
 
-<h2>Struts - Validator Example</h2>
+<h2>Struts - Validator Example Testing</h2>
 
 Employee added successfully
 
